@@ -1,2 +1,2 @@
 # Proyect-1
-A nub proyect
+React + Twilwind + framer motion + gasp
