@@ -1,2 +1,2 @@
-# Proyect-1
-React + Twilwind + framer motion + gasp
+# React + Twilwind + framer motion + gasp
+https://eliasrex01.github.io/Portfolio/
